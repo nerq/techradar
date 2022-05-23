@@ -1,0 +1,21 @@
+{
+  "title": "Grundfos Techradar",
+  "quadrants": [
+    "Techniques",
+    "Tools",
+    "Platforms",
+    "Languages & frameworks"
+  ],
+  "rings": [
+    "Adopt",
+    "Trial",
+    "Assess",
+    "Hold"
+  ],
+  "blips": [
+    "test1",
+    "test2",
+    "test3",
+    "test4"
+ ]
+}
