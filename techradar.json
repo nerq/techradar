@@ -21,6 +21,13 @@
     "description": "Apache Kylin is an open source analytics solution ..."
   },
   {
+    "name": "Apache Kylin2",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "Apache Kylin is an open source analytics solution Access Test..."
+  },
+  {
     "name": "JSF",
     "ring": "hold",
     "quadrant": "languages & frameworks",
